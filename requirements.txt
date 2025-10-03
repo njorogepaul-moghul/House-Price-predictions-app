@@ -1,0 +1,18 @@
+To run this project, you need the following libraries and tools installed:  
+
+- Python 3.8+  
+- pandas  
+- numpy  
+- scikit-learn  
+- lightgbm  
+- xgboost (optional, for comparison)  
+- catboost (optional, for comparison)  
+- matplotlib  
+- seaborn  
+- jupyter (for notebooks)  
+- streamlit (optional, for deployment)  
+
+You can install the dependencies using:  
+
+```bash
+pip install -r requirements.txt

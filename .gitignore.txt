@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (large raw datasets should not be pushed to GitHub)
+*.csv
+*.xlsx
+*.xls
+*.ods
+*.db
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Model files
+*.h5
+*.model
+*.sav
