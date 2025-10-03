@@ -1,5 +1,6 @@
 # 🏡 House Price Prediction App
 
+[launch the app](https://house-price-predictions-app-lsbhwvmyn5lidhuanynd6g.streamlit.app/)
 ## 📌 Overview
 This is an interactive web application built with **Streamlit** that predicts house prices based on user-provided features.  
 It uses our **tuned LightGBM model**, trained on the Kaggle Ames Housing dataset.  
@@ -25,6 +26,8 @@ To improve efficiency and simplify the app, we applied **feature reduction**, se
 
 ## 🖥️ Usage
 
+[launch the app](https://house-price-predictions-app-lsbhwvmyn5lidhuanynd6g.streamlit.app/)
+
 ### Run Locally
 Clone the repo and install dependencies:
 ```bash
@@ -39,4 +42,4 @@ streamlit run house_app.py
 ├── train_columns.pkl    # Top 10 features used in training
 ├── requirements.txt     # Project dependencies
 └── README.md            # App documentation
-
+ 
